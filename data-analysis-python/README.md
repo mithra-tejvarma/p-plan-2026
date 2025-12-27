@@ -1,0 +1,1 @@
+This README file provides an overview of the data analysis project using Python. It includes instructions on how to set up the environment, run the analysis scripts, and interpret the results.
